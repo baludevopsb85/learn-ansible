@@ -1,0 +1,7 @@
+[PROD]
+server1.robobal.store
+server2.robobal.store
+
+[UAT]
+example1.robobal.store
+example2.robobal.store
